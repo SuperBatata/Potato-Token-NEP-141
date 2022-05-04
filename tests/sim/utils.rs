@@ -1,5 +1,5 @@
 use defi::DeFiContract;
-use fungible_token::ContractContract as FtContract;
+// use fungible_token::ContractContract as FtContract;
 
 use near_sdk::json_types::U128;
 use near_sdk::serde_json::json;
